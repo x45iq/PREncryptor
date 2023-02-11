@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PR Encryptor</string>
+    <string name="choose_encrypting_type">Выберите что зашифровать</string>
+    <string name="file">Файл</string>
+    <string name="folder">Папка</string>
+    <string name="enter_password">Введите пароль</string>
+    <string name="password">Пароль</string>
+    <string name="invalid_password">Неприемлимый пароль</string>
+    <string name="encrypting_in_progress">Выполняется шифрование</string>
+    <string name="decrypting_in_progress">Выполняется дешифрование</string>
+    <string name="do_not_close_the_app">Не закрывайте приложение</string>
+    <string name="failed_to_encrypt_file">Не удалось зашифровать файл</string>
+    <string name="successfully_encrypted">Успешно зашифровано</string>
+    <string name="allow_permission">Разрешите чтение файлов</string>
+    <string name="app_func_is_not_available">Функционал приложения недоступен без разрешения</string>
+    <string name="file_deleting">Удаление файла</string>
+    <string name="are_you_sure_delete">Вы уверены, что хотите удалить файл?</string>
+    <string name="checking">Выполняется проверка...</string>
+    <string name="password_is_wrong">Пароль нереверный</string>
+    <string name="failed_to_decrypt_file">Не удалось разшифровать файл</string>
+    <string name="successfully_decrypted">Успешно расшифровано</string>
+    <string name="open">Открыть</string>
+    <string name="will_be_soon">Скоро будет</string>
+    <string name="unsupported_file">Неподдерживаемый формат файла</string>
+    <string name="share">Поделиться</string>
+</resources>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">PR Encryptor</string>
+    <string name="choose_encrypting_type">Choose encrypting type</string>
+    <string name="file">File</string>
+    <string name="folder">Folder</string>
+    <string name="enter_password">Enter password</string>
+    <string name="password">Password</string>
+    <string name="invalid_password">Invalid password</string>
+    <string name="encrypting_in_progress">Encrypting in progress</string>
+    <string name="decrypting_in_progress">Decrypting in progress</string>
+    <string name="do_not_close_the_app">Do not close the app</string>
+    <string name="failed_to_encrypt_file">Failed to encrypt file</string>
+    <string name="successfully_encrypted">Successfully encrypted</string>
+    <string name="allow_permission">Allow storage permission</string>
+    <string name="app_func_is_not_available">App functionality is not available without permission</string>
+    <string name="file_deleting">File deleting</string>
+    <string name="are_you_sure_delete">Are you sure you want to delete the file?</string>
+    <string name="checking">Checking...</string>
+    <string name="password_is_wrong">Password is wrong</string>
+    <string name="failed_to_decrypt_file">Failed to decrypt file</string>
+    <string name="successfully_decrypted">Successfully decrypted</string>
+    <string name="open">Open</string>
+    <string name="will_be_soon">Will be soon</string>
+    <string name="unsupported_file">Unsupported file</string>
+    <string name="share">Share</string>
+</resources>

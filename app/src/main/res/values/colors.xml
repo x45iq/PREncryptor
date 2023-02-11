@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="secondary_color">#FFBB86FC</color>
+    <color name="primary_color">#FF6200EE</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#F5F5F5</color>
+    <color name="gray">#828282</color>
+    <color name="bg_color">#00050A</color>
+    <color name="light_steel_blue">#B0C4DE</color>
+</resources>
